@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eugie.github.io/sitemap.xml
