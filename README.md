@@ -15,3 +15,4 @@ Ongoing OMSCS @Georgia Tech
 2017 ~ 2021: LLB, Shanghai Jiao Tong University
 
 Contact: eugieyan@gmail.com
+Personal Site: eugenescat.github.io/en/
